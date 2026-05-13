@@ -1,0 +1,7 @@
+.DS_Store
+pig/
+scripts/
+⠀Catherine C. Liu_files/
+assets/google-sites/**
+!assets/google-sites/
+!assets/google-sites/catherine-liu-profile.png
