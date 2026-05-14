@@ -317,6 +317,22 @@ li + li {
   font-size: 1.3rem;
 }
 
+.news-photo {
+  margin: 14px 0 0;
+}
+
+.news-photo img {
+  display: block;
+  width: min(720px, 100%);
+  border: 1px solid var(--line);
+}
+
+.news-photo figcaption {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 .contact-list {
   display: grid;
   gap: 8px;
